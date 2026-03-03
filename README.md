@@ -3,7 +3,7 @@ Data sciecne projects including AI
 Problem Statement
 We have energy production data of Spain which is generating from multiple sources like solar system, wind system and other sources. We'll try to solve some use cases related to this data which we will discuss this below.
 
-Business Context:
+## Business Context:
 
 Day-ahead energy forecasting is critical for:
 
@@ -15,7 +15,7 @@ Day-ahead energy forecasting is critical for:
 
 -> Reserve planning
 
-Usual key modeling challenges with these kind of data:
+## Usual key modeling challenges with these kind of data:
 -> Strong daily seasonality (24h)
 
 -> Annual seasonality (8760h)
@@ -30,16 +30,16 @@ Usual key modeling challenges with these kind of data:
 
 Going foreward we'll see which all are applicable with this data.
 
-Modelling Strategy
+## Modelling Strategy
 We'll try to build multiple models using below data seperately:
 
-Combined Model( Wind + Solar + Other)
+1. Combined Model( Wind + Solar + Other)
 
-Solar Model
+2. Solar Model
 
-Wind Model
+3. Wind Model
 
-Data Format Summary
+## Data Format Summary
 . The dataset is a multivariate time series representing energy production.
 
 . Frequency: Hourly observations (1-hour resolution).
