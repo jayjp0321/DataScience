@@ -3,7 +3,8 @@ Data sciecne projects including AI
 Problem Statement
 We have energy production data of Spain which is generating from multiple sources like solar system, wind system and other sources. We'll try to solve some use cases related to this data which we will discuss this below.
 
-Business Context
+Business Context:
+
 Day-ahead energy forecasting is critical for:
 
 -> Grid balancing
