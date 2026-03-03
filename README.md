@@ -61,6 +61,3 @@ We'll try to build multiple models using below data seperately:
 . Wind generation
 
 . Total production (Solar + Wind)
-
-Solar Energy Forecast
-We'll first perform solar energy forecast. Daily Day ahead Energy forecast(aggregate) then map it to the hourly.
